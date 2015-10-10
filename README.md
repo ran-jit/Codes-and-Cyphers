@@ -34,6 +34,7 @@ Sample input 1:
 * Key: venturesity
 * Is message plaintext (Y/N): Y
 * Plaintext: The enemy will attack at dawn!
+
 output:
 -------
 * Ciphertext: Qntzjxssgdligiowvqudyatt!
@@ -44,6 +45,7 @@ Sample input 2:
 * Key: venturesity
 * Is message plaintext (Y/N)?: N
 * Ciphertext: Qntzjxssgdligiowvqudyatt!
-output 2:
----------
+
+output:
+-------
 * Plaintext: The enemy will attack at dawn!
